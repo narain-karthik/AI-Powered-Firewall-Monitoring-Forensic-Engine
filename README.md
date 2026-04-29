@@ -1,6 +1,8 @@
 # 🛡️ AI-Powered Firewall Monitoring & Forensic Engine
 
-![Project Banner](Picture1.png)
+<p align="center">
+  <img src="Picture1.png" alt="Project Banner">
+</p>
 
 An advanced, AI-driven monitoring system for FortiGate Firewalls that automates log collection, forensic analysis, and executive reporting. Leveraging local AI (Ollama) and high-frequency polling, this assistant provides real-time security insights directly to your inbox.
 
@@ -10,7 +12,7 @@ An advanced, AI-driven monitoring system for FortiGate Firewalls that automates 
 - **📊 Executive PDF Reporting**: Generates premium, executive-grade reports with detailed metrics, security alerts, and bandwidth performance.
 - **🕒 Intelligent Scheduling**: High-frequency polling (1 min) for security events and low-frequency polling (30 min) for hardware health and system metrics.
 - **🛡️ 5-Day Forensic Audit**: Automated deep-dive into authentication events with GeoIP lookups to identify suspicious access attempts.
-- **📈 Dual-WAN Monitoring**: Real-time tracking of multiple ISP interfaces (Infonet, BSNL, etc.) with throughput statistics and status alerts.
+- **📈 Dual-WAN Monitoring**: Real-time tracking of multiple ISP interfaces with throughput statistics and status alerts.
 - **⚡ Built-in Speed Test**: Automated bandwidth testing via Cloudflare CDN to monitor carrier performance.
 - **📧 Automated Email Delivery**: Seamless integration with SMTP to deliver PDF reports directly to security administrators.
 
