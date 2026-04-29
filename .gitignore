@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Project Specific
+firewall_data.db
+daily_logs/*.json
+daily_logs/Report_*.pdf
+daily_logs/Auth_Audit_*.pdf
+.last_auth_report
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
